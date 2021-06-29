@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chayvw/employee-tracker-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chayvw/employee-tracker-express/issues"
+  },
+  "homepage": "https://github.com/Chayvw/employee-tracker-express#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "inquirer": "^8.1.1",
+    "mysql": "^2.18.1"
+  }
+}
